@@ -1,0 +1,16 @@
+﻿# תיקיות VS
+.vs/
+*.user
+*.suo
+
+# תיקיות Build
+bin/
+obj/
+
+# קבצי קונפיגורציה פרטיים
+*.log
+*.cache
+*.db
+*.pid
+*.sdf
+*.VC.db

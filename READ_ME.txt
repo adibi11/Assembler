@@ -1,5 +1,5 @@
 aouthur: Adi Ben Israel
-	 David Hodush
+
 
 The purpose of the project is to transform an assembly file , or number of files to a muchine code in base 64.
 There are three main stages
